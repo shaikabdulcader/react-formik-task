@@ -1,34 +1,30 @@
-# Book Management Application
+# React-Formik
+<p>This is an Book library site using formik in reactjs For showing to easy to access for user will using for there learning purpose which was designed by me using Reactjs. It's Guvi-Zen class Roadmap session: Day-31 and React : Day-11 Task.</p>
 
-Welcome to the Book Management Application! This web application allows users to manage book records and author information with ease. Below are key features and guidelines for using the application.
-
-## How to use this application
-
-### Home Page
-
-- **View All Books:** The home page displays all the available books. Click on any book card to view its complete details on a dedicated page.
-
-### Dashboard Page
-
-- **Edit and Delete Book Records:** Navigate to the dashboard page to edit or delete book records. Click on the respective buttons for the desired action.
-
-### Add Book Page
-
-- **Add New Book:** Visit the Add Book page to add a new book to the system. Fill in the required details and click on the submit button.
+## Tech Stack
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>REACT</li>
+</ul>
 
 ## Features
+<ul>
+  <li>User friendly and Responsive attractive Design</li>
+</ul>
 
-### Book Records Management
+## Learn About
+<p>I learned to validate form as well as to passing data to component elements as per the request which helped me to understand</p>
 
-- **Add, Edit, and Delete Book Records:** Users can add new books to the system, edit existing book details, and delete books they no longer need.
-- **Book Information:** Each book record contains the title, author, ISBN number, and publication date.
 
-### Author Information Management
 
-- **Add, Edit, and Delete Author Records:** Users have the ability to manage author information by adding new authors, updating existing details, and deleting unnecessary records.
-- **Author Details:** Each author record includes the author's name, birth date, and a short biography.
+## Website
+<a href="https://react-formik-task-fsd.netlify.app/" target="_blank">Preview</a>
 
-### Form Validation with Formik
-
-- **Form Validation:** All forms within the dashboard, including those for adding, editing, or deleting book and author records, are validated using Formik.
-- **Error Handling:** Users will receive clear error messages if there are issues with the information provided in the forms.
+## Setup
+<p>Following are the requirements to run this project:</p>
+<ul>
+  <li>Node Package Manager (NPM)</li>
+  <li>React</li>
+</ul>
